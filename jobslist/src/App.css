@@ -1,0 +1,29 @@
+body {
+  background: black;
+}
+header {
+  background: white;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background: white;
+}
+.job {
+  margin: 20px;
+  padding: 10px 0;
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}
+img {
+  width: 300px;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
